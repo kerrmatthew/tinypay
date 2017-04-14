@@ -1,0 +1,13 @@
+notes:
+
+our point of difference is we don't need to support anyone, we can do the easy ones and promise the future.
+
+we can use paypal apple pay and android pay to make it easyier. maybe use our own system later. 
+
+2 clicks to auth, that's it. 
+
+track using cookies, useragent, and ip. We can figure out how to get emails later (do we get them from apple pay anyways?) 
+
+lets design some flows for web base case using tiny paywall. 
+
+ 
